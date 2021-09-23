@@ -3,12 +3,12 @@ AFP projekt labor 1-3, Csütörtök 13:40
 
 Sakk puzzle játék
 
-## Members
-#### Seniors
+## Tagok
+#### Szeniorok
 - Lovász Ákos
 - Krigovszki Bálint
 
-#### Juniors
+#### Juniorok
 - Farkas Erik
 - Karsai Petra
 - Maka Bettina
